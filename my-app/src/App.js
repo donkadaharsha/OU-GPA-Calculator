@@ -53,6 +53,7 @@ const App = () => {
               type="number"
               value={course.creditHours}
               onChange={(e) => handleCreditHoursChange(index, e.target.value)}
+              min="0"
             />
           </div>
           <div className="input-group">
@@ -72,7 +73,7 @@ const App = () => {
       ))}
       <button className="add-button" onClick={addCourse}>Add Course</button>
       <div>
-        {courses.length > 0 && <h2 className="gpa">Your GPA: {calculateGPA().toFixed(2)}</h2>}
+        {courses.length > 0 && <h2 className="gpa">Your GPA: {calculateGPA().toFixed(4)}</h2>}
       </div>
     </div>
   );
