@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OU-GPA-Calculator/static/css/main.504aae56.css",
+    "main.js": "/OU-GPA-Calculator/static/js/main.109be6f9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/OU-GPA-Calculator/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/OU-GPA-Calculator/index.html",
+    "main.504aae56.css.map": "/OU-GPA-Calculator/static/css/main.504aae56.css.map",
+    "main.109be6f9.js.map": "/OU-GPA-Calculator/static/js/main.109be6f9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/OU-GPA-Calculator/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.504aae56.css",
+    "static/js/main.109be6f9.js"
+  ]
+}
